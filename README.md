@@ -1,7 +1,7 @@
 # Powershell-Context-Menu
 Adds a context menu option for "Powershell as Administrator". 
 
-https://i.imgur.com/67yVmWH.png
+![Image](https://i.imgur.com/67yVmWH.png)
 
 `powershelladmin.ps1` adds the context option. 
 
