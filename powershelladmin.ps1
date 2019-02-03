@@ -1,4 +1,4 @@
-$menu = 'PowerShell as Administrator'
+$menu = 'Powershell as Administrator'
 $command = "$PSHOME\powershell.exe -NoExit -NoProfile -Command ""Set-Location '%V'"""
 
 'directory', 'directory\background', 'drive' | ForEach-Object {
